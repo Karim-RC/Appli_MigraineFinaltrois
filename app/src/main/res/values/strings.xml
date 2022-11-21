@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Appli_MigraineFinal</string>
+    <string name="selected_item">Selected item:</string>
+
+    <string name="selected_item1">selected_item:</string>
+    <string-array name="Migraine_Intensite">
+        <item>Modérée</item>
+        <item>Intense</item>
+        <item>Trés intense</item>
+        <item>Insupportable</item>
+    </string-array>
+</resources>
